@@ -1,0 +1,51 @@
+body {
+	background-color: #005AA3;
+	background-image: url('images/bg.jpg');
+	background-image: repeat-x;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-weight: 300;
+}
+
+.infobar {
+	margin-bottom: 30px;
+	line-height: 30px;
+	text-align: center;
+	font-size: 13px;
+	color: white;
+}
+
+.container {
+	padding: 25px;
+	margin: 0 auto;
+	width: 880px;
+	background-color: white;
+}
+
+nav {
+	margin-top: 20px;
+	float: right;
+	padding-bottom: 60px;
+}
+
+nav a {
+	color: #0063ab;
+	font-size: 20px;
+	font-weight: 500;
+	text-decoration: none;
+	padding-right: 20px;
+}
+
+.social {
+	display: inline;
+	vertical-align: middle;
+}
+
+.slides {
+	text-align: center;
+}
+
+img.pager  {
+	height: 15%;
+	width: 15%;
+	margin-top: 20px;
+}
